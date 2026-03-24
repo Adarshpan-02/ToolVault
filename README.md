@@ -73,7 +73,7 @@
 
 No installation needed.
 
-1. Download `toolvault.html`
+1. Download `index.html`
 2. Open it in any modern browser
 3. Start adding tools
 
